@@ -1,1 +1,12 @@
-
+{
+  "12345678": {
+    "banned": true,
+    "username": "BadPlayer123",
+    "reason": "Cheating in game"
+  },
+  "87654321": {
+    "banned": true,
+    "username": "ToxicUser",
+    "reason": "Exploiting"
+  }
+}
